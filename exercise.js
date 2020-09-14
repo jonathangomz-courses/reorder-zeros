@@ -1,11 +1,10 @@
-function <function-name>(<some>, <params>) {
-  // Your logic goes here...
-  return <something>
+function reorderZeros(arr) {
+  // Your code goes here...
 }
 
 (function () {
-  const res = <function-name>(<some>, <args>);
+  const res = reorderZeros([1, 2, 0, 0, 3, 42, 0, 34, 25, 0, 0, 2, 3, 5, 2, 0]);
   console.log(res);
 })()
 
-module.exports = <function-name>;
+module.exports = reorderZeros;
