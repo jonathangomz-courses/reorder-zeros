@@ -1,15 +1,15 @@
-# [Exercise-title]
+# Reorder zeros
 
 ## Instructions
-[The instructions goes here...]
+Given an array of random integers, move all the zeros in the array to the end of the array.
 
 ## How to Work
 ### Coding
 - Clone this repository:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone [your-repository-url]
+cd reorder-zeros
 ```
 
 - Write your code on `exercise.js`
